@@ -4,5 +4,4 @@ Get today’s currency rates based in EUR from the ECB and save them on a CSV fi
 
 Link to ECB rates:
 
-https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml?5105e8233f9433cf70ac379d6
-ccc5775
+https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml?5105e8233f9433cf70ac379d6ccc5775
